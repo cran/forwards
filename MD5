@@ -1,0 +1,14 @@
+73e28c30aaf67b3e27724b7056ac4ec2 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+76fdb7e8fd2823142b92868dc74593e7 *NEWS.md
+1c2c77018214d6ee36d3cf583e94cb0a *R/forwards-package.r
+f184e55045c5b53c093d7b4f51047bfc *R/useR2016.R
+39764a9dfc045e36836f210ecde01b09 *README.md
+23832365d7c03fc7a35738c2009fc732 *build/vignette.rds
+04a2f95ae290b72b8737e14a3285b07c *data/useR2016.rda
+ce0234cf13ae8f0cb1a090dd976249e3 *inst/doc/Overview.R
+d6ecd6f58b6fdd68c08ce6295cc48dd9 *inst/doc/Overview.Rmd
+1786512548520decfae3ad4d7032d214 *inst/doc/Overview.html
+26e925b9b3dc0adfebd445962f09cec5 *man/forwards.Rd
+14851e578059ec7c85062e2323d5c8cb *man/useR2016.Rd
+d6ecd6f58b6fdd68c08ce6295cc48dd9 *vignettes/Overview.Rmd
