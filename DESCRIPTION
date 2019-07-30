@@ -1,7 +1,7 @@
 Package: forwards
 Type: Package
 Title: Data from Surveys Conducted by Forwards
-Version: 0.1.1
+Version: 0.1.3
 Authors@R: c(person("Heather", "Turner", email =
         "ht@heatherturner.net", role = c("aut", "cre")),
         person("Oliver", "Keyes", role = "aut"))
@@ -17,9 +17,9 @@ Suggests: dplyr, FactoMineR, forcats, ggplot2, knitr, likert,
         rmarkdown, tidyr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-01-02 18:19:21 UTC; hturner
+Packaged: 2019-07-30 20:43:22 UTC; hturner
 Author: Heather Turner [aut, cre],
   Oliver Keyes [aut]
 Maintainer: Heather Turner <ht@heatherturner.net>
 Repository: CRAN
-Date/Publication: 2019-01-03 00:20:09 UTC
+Date/Publication: 2019-07-30 21:10:02 UTC
